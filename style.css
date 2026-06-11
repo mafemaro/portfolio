@@ -1,10 +1,10 @@
 /* variaveis cor clara */
 :root {
-    --cor-primaria: #004aad;
-    --cor-secundaria: #00b4d8;
-    --cor-terciaria: #4ea8de;
+    --cor-primaria: #ff4d6d;
+    --cor-secundaria: #ff8fa3; 
+    --cor-terciaria: #c9184a;
     --cor-fundo: #ffffff;
-    --cor-fundoclaro: #f4f7f6;
+    --cor-fundoclaro: #fff0f3;
     --cor-textoesuro: #212529;
     --cor-textoclaro: #6c757d;
     --cor-branca: #ffffff;
@@ -14,9 +14,9 @@
 
 /* variaveis cor escura */
 body.temaescuro {
-    --cor-primaria: #4ea8de; 
-    --cor-secundaria: #90e0ef;
-    --cor-terciaria: #004aad;
+    --cor-primaria: #ff8fa3;
+    --cor-secundaria: #ffb3c1;
+    --cor-terciaria: #ff4d6d;
     --cor-fundo: #121212;
     --cor-fundoclaro: #1a1a1a;
     --cor-textoesuro: #f1f1f1;
